@@ -12,7 +12,7 @@ I love Graph Theory and every Machine Learning technique derived from it. I’m 
 
 I’m also constantly planning to learn more languages, often failing to dedicate the time to them. Therefore I try creating tools that might help me learn Mandarin, or Japanese despite my lack of time investment.
 
-I’m also a map nerd, and always trying to play with new GIS Python libraries: [OSMNX](https://github.com/gboeing/osmnx), [Pretty Maps](https://github.com/marceloprates/prettymaps), and more.
+I’m also a map nerd, and always trying to play with new GIS Python libraries: [OSMNX](https://github.com/gboeing/osmnx), [Pretty Maps](https://github.com/marceloprates/prettymaps), [PySAL](https://github.com/pysal/pysal) and more.
 
 ## 🌱 I'm Learning ...
 
