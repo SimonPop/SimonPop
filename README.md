@@ -20,6 +20,6 @@ Always trying to keep up with the Graph ML field, I love using [NetworkX](https:
 
 I also love investigating the new MLOps tools available. For example, I always found the beautiful table kept up to date by [LF AI](https://landscape.lfai.foundation/) inspiring.
 
-I’m also learning to draw to create pictures to illustrate my ideas!
+Finally, I am passionated about data science for solving proteomics and genomics problems. I would love to learn more about it and discover the potential of libraries such as [pyGeno](https://pygeno.iric.ca/)
 
 **Objective**: Learn about AI before AI learns about me.
