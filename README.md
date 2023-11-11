@@ -15,21 +15,19 @@ I'm a Data Scientist currently working with **temporal & spatial data** and more
 
 I have been working in the data science field for about 4 years now and consistently seek to apply my expertise to develop new ideas! 
 
-## 👀 I’m interested in ...
+## :computer: I work with ...
 
-I love Graph Theory and every Machine Learning technique derived from it. That led me to try and develop projects in fields such as **Recommender Systems** and **Neural Search Engines**.
+Graphs! I thrive most when it comes to this fascinating domain. Me and my team developed many projects revolving around __Graph Neural Networks__, from architectural reconstruction to market interactions. Additionally, you may find illustrated articles on __Graph Theory__ on my blog page. 
 
-I’m also constantly planning to learn more languages, often failing to dedicate the time to them. Therefore I try creating tools that might help me learn Mandarin, or Japanese despite my lack of time investment.
+Being a map enthusiast, I'm also chasing new GIS libraries. Some of which I use in my work, and others I play with for fun. 
 
-I’m also a map nerd, and always trying to play with new GIS Python libraries: [OSMNX](https://github.com/gboeing/osmnx), [Pretty Maps](https://github.com/marceloprates/prettymaps), [PySAL](https://github.com/pysal/pysal) and more.
+When it comes to practice, I follow carefully the MLOps community to gather and apply best practices. I for instance love to turn to [LF AI](https://landscape.lfai.foundation/) to get inspiration on the matter.
 
 ## 🌱 I'm Learning ...
 
-Always trying to keep up with the Graph ML field, I love using [NetworkX](https://github.com/networkx), [Neo4J](https://github.com/neo4j), and [PyG](https://github.com/pyg-team/pytorch_geometric) to make the most of it.
+New languages: Python and Julia, or Japanese and Mandarin. I'm on a quest to create applications that can help me with this endeavor. You may find some of these projects by browsing my profile!
 
-I also love investigating the new MLOps tools available. For example, I always found the beautiful table kept up to date by [LF AI](https://landscape.lfai.foundation/) inspiring.
-
-Finally, I am passionate about data science for solving proteomics and genomics problems. I would love to learn more about it and discover the potential of libraries such as [pyGeno](https://pygeno.iric.ca/).
+I also always keep an eye on various other topics! I particularly enjoy genomics, information retrieval, and recommendation engines. 
 
 ##
 
