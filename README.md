@@ -1,6 +1,6 @@
-# Simon Popelier
+<h1 align="center"> Simon Popelier </h1>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/simon-popelier/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -31,11 +31,9 @@ I also love investigating the new MLOps tools available. For example, I always f
 
 Finally, I am passionate about data science for solving proteomics and genomics problems. I would love to learn more about it and discover the potential of libraries such as [pyGeno](https://pygeno.iric.ca/).
 
----
+##
 
-### :hammer_and_wrench: Languages and Tools :
-
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TF" alt="TF" width="40" height="40"/>&nbsp;
