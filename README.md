@@ -11,7 +11,7 @@
 
 ## 👋 Hi, I’m Simon,
 
-I'm a Data Scientist currently working with **temporal & spatial data** and more in a start-up specializing in real estate.
+I'm a Data Scientist currently working with **temporal & spatial data** in a start-up specializing in real estate.
 
 I have been working in the data science field for about 4 years now and consistently seek to apply my expertise to develop new ideas! 
 
